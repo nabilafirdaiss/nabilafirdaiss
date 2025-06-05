@@ -12,5 +12,5 @@
 - Email: nabilafirdaiss@gmail.com
 - Telegram: [@nabilafirdaiss](https://t.me/nabilafirdais)
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilafirdaiss&layout=compact&theme=onedark)
+
