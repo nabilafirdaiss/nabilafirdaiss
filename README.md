@@ -4,7 +4,7 @@
 
 
 ## 🔧 Technologies & Tools
-![Tech Stack](https://skillicons.dev/icons?i=py,css,html,c++,js,java,sklearn,pandas,numpy,matplotlib,seaborn,tensorflow,keras,jupyter,vscode,git,github,laravel,gradio,postman&theme=light)
+![Tech Stack](https://skillicons.dev/icons?i=py,css,html,c++,js,java,sklearn,pandas,numpy,matplotlib,seaborn,tensorflow,keras,jupyter,vscode,intelliJ,git,github,laravel,gradio,postman&theme=light)
 
 ## 🧪 Projects
 
